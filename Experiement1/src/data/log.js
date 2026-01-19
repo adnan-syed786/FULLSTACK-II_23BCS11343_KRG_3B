@@ -1,0 +1,17 @@
+export const logs = [
+  { id: 1, activity: "Car Travel", carbon: 12 },
+  { id: 2, activity: "Electricity Usage", carbon: 5 },
+  { id: 3, activity: "Cycling", carbon: 0 },
+  { id: 4, activity: "Public Bus", carbon: 2 },
+  { id: 5, activity: "Flight (Domestic)", carbon: 150 },
+  { id: 6, activity: "Vegetarian Meal", carbon: 1 },
+  { id: 7, activity: "Cycling", carbon: 0 },
+  { id: 8, activity: "Electronics Recycling", carbon: -2 },
+  { id: 9, activity: "Car Travel", carbon: 8 },
+  { id: 10, activity: "Electricity Usage", carbon: 10 },
+  { id: 11, activity: "Walking", carbon: 0 },
+  { id: 12, activity: "Heating Usage", carbon: 15 },
+  { id: 13, activity: "Train Journey", carbon: 3 },
+  { id: 14, activity: "Meat Meal", carbon: 5 },
+  { id: 15, activity: "Turned Off Lights", carbon: -1 },
+]
