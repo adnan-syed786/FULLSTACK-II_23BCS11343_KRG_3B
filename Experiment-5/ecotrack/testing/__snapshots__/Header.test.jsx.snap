@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Tests matches snapshot 1`] = `
+<DocumentFragment>
+  <header
+    style="background-color: rgb(15, 23, 42); color: white; padding: 0.8rem 1.5rem; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 2px 8px rgba(0,0,0,0.15);"
+  >
+    <h1
+      style="font-size: 1.4rem; font-weight: 700; letter-spacing: 0.5px; margin: 0px;"
+    >
+      EcoTrack App
+    </h1>
+    <nav
+      style="display: flex; gap: 1.5rem;"
+    >
+      <a
+        data-discover="true"
+        href="/"
+        style="color: rgb(203, 213, 245); text-decoration: none; font-size: 0.95rem;"
+      >
+        Dashboard
+      </a>
+      <a
+        data-discover="true"
+        href="/log"
+        style="color: rgb(203, 213, 245); text-decoration: none; font-size: 0.95rem;"
+      >
+        Logs
+      </a>
+    </nav>
+    <button
+      style="background-color: rgb(239, 68, 68); color: white; padding: 0.35rem 0.9rem; border-radius: 6px; font-size: 0.85rem; font-weight: 600; cursor: pointer;"
+    >
+      Logout
+    </button>
+  </header>
+</DocumentFragment>
+`;
