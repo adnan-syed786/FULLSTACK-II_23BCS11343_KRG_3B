@@ -1,0 +1,15 @@
+.dashboard-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.dashboard-btn-wrapper {
+  margin-top: 10px;
+}
+
+.dashboard-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}

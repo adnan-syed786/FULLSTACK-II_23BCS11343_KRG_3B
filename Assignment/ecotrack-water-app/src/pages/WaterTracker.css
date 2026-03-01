@@ -1,0 +1,69 @@
+.tracker-container {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.tracker-counter-wrapper {
+  margin: 20px 0;
+}
+
+.tracker-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tracker-buttons button {
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #007bff;
+  background-color: white;
+  color: #007bff;
+}
+
+.goal-container, .tip-container {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+}
+
+.goal-label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.goal-input {
+  padding: 5px;
+  width: 60px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.tip-title {
+  color: #495057;
+}
+
+.tip-content {
+  margin: 15px 0;
+  min-height: 40px;
+}
+
+.tip-error {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.btn-new-tip {
+  padding: 8px 15px;
+  background-color: #17a2b8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
